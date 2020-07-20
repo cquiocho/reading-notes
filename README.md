@@ -1,4 +1,4 @@
-<img src="https://www.infiniticube.com/images/Custom-Software-Development.png" alt="Alt text"/>
+![Alt Text](https://www.infiniticube.com/images/Custom-Software-Development.png)
 
 
 ## ***My name is Christopher Quiocho. I am originally from Honolulu, HI and now reside in Seattle, WA. After several years as an Executive Administrator, I have made the decision to pursue a career in Software Development.***
