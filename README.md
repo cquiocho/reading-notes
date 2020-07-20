@@ -15,8 +15,8 @@
 ![Alt Text](https://alexandriawellness.com/wp-content/uploads/growth-vs-fixed-mindset.png)     
      
      
-**Throughout my journey, I will remind myself that:**     
+# **Throughout my journey, I will remind myself that:**     
 
-1. *Failure is eminent, but I will not quit.*
-1. *The success of others with inspire and motivate me.*
-1. *I will learn from all obstacles encountered and all criticism received.*
+## 1. *Failure is eminent, but I will not quit.*
+## 1. *The success of others with inspire and motivate me.*
+## 1. *I will learn from all obstacles encountered and all criticism received.*
