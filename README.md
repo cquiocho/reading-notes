@@ -7,7 +7,7 @@
 ![Alt Text](https://i.ytimg.com/vi/YG4t8SGQsvA/maxresdefault.jpg)     
      
      
-# I embrace the __Growth Mindset__.   
+# I embrace the ***Growth Mindset***.   
 
 ## I welcome the opportunity to try new things, encountering new challenges and pursuing new goals. It is how I choose to continue to grow professionally and personally, and how I can proceed forward confidently. This is what brought me here to Code Fellows and why I will succeed at becoming a Software Developer.     
      
