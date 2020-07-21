@@ -14,6 +14,6 @@
          
 # **Throughout my journey, I will remind myself that:**     
 
-## - *Failure is eminent, but I will not quit.*
-## - *The success of others will inspire and motivate me.*
-## - *I will learn from all obstacles encountered and all criticism received.*
+### - *Failure is eminent, but I will not quit.*
+### - *The success of others will inspire and motivate me.*
+### - *I will learn from all obstacles encountered and all criticism received.*
