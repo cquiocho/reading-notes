@@ -17,3 +17,18 @@
 ### - *Failure is eminent, but I will not quit.*
 ### - *The success of others will inspire and motivate me.*
 ### - *I will learn from all obstacles encountered and all criticism received.*
+
+## Table of Contents
+
+- [The Coder's Computer](https://cquiocho.github.io/the-coders-computer/)
+- [Revisions and the Cloud](https://cquiocho.github.io/revisions_and_the_cloud/)
+
+## Reading References
+
+- [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
+- [Markdown Syntax](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)
+- [Choosing a Text Editor](https://codefellows.github.io/code-102-guide/curriculum/class-02/Choosing-A-Text-Editor--The-Older-Coder.pdf)
+- [Linux Tutorial - 1. The Command Line](https://ryanstutorials.net/linuxtutorial/commandline.php)
+- [Linux Tutorial - 2. Navigation](https://ryanstutorials.net/linuxtutorial/navigation.php)
+- [Linux Tutorial - 3. More About Files](https://ryanstutorials.net/linuxtutorial/aboutfiles.php)
+- [Introduction to Git](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/)
