@@ -5,9 +5,9 @@
      
 ## Table of Contents
 
-- [Learning Markdown](https://cquiocho.github.io/learning-markdown/)
-- [The Coder's Computer](https://cquiocho.github.io/the-coders-computer/)
-- [Revisions and the Cloud](https://cquiocho.github.io/revisions-and-the-cloud/)
+- [Learning Markdown](https://cquiocho.github.io/reading-notes/learning-markdown)
+- [The Coder's Computer](https://cquiocho.github.io/reading-notes/the-coders-computer)
+- [Revisions and the Cloud](https://cquiocho.github.io/reading-notes/revisions-and-the-cloud)
 
 ## Reading References
 
