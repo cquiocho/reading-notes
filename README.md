@@ -5,7 +5,7 @@
      
 ## Table of Contents
 
-- [Learning Markdown]()
+- [Learning Markdown](https://cquiocho.github.io/reading-notes/learning-markdown)
 - [The Coder's Computer](https://cquiocho.github.io/the-coders-computer/)
 - [Revisions and the Cloud](https://cquiocho.github.io/revisions_and_the_cloud/)
 
