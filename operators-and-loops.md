@@ -1,3 +1,5 @@
+![Alt Text](https://www.simplilearn.com/ice9/free_resources_article_thumb/X_Reasons_to_learn_Javascript.jpg)
+
 # Operators and Loops
 
 ## Comparison Operators : Evaluating Conditions
