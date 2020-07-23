@@ -13,8 +13,8 @@ Javascript runs where a html **script** element is found.
 
 **WRITE COMMENTS TO EXPLAIN WHAT EACH CODE WILL DO.**
 
-- Multiple Line Comments = /*...*/
-- Single Line Comments = //
+- Multiple Line Comments = "/* */"
+- Single Line Comments = "//"
 
 **Variables** - stored bits of information to perform a desired result.
 **Declare** - once a variable is declared = assign a value to it 
@@ -23,3 +23,6 @@ Javascript distinguishes between *numeric*, *string* and *boolean* data types.
 - Numeric Data Types - Numbers.
 - String Data Types - Consists of letters and other characters.
 - Boolean Data Types - True or False.
+
+
+[<== Back to Main Readme](README.md)

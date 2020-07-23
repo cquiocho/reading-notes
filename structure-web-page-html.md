@@ -44,3 +44,6 @@ Knowing your target audience will influence design decisions, from color palette
 - HTML code is comprised of elements and attributes
 - An element consists of two tags (opening & closing tags)
 - Attributes provide additional information and are made up of an attribute name and an attribute value.
+
+
+[<== Back to Main Readme](README.md)

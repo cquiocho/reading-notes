@@ -52,3 +52,6 @@ GIT Remote &amp; Local - Add, Commit &amp; Push
 
 - git pull origin master (download current committed file to local directory. **previous version must be deleted**
 - git remote -v (to verify origin)
+
+
+[<== Back to Main Readme](README.md)
