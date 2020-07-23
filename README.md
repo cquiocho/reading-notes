@@ -9,6 +9,7 @@
 - [The Coder's Computer](https://cquiocho.github.io/reading-notes/the-coders-computer)
 - [Revisions and the Cloud](https://cquiocho.github.io/reading-notes/revisions-and-the-cloud)
 - [Structure Web Pages with HTML](https://cquiocho.github.io/reading-notes/structure-web-page-html)
+- [Design Web Pages with CSS](https://cquiocho.github.io/reading-notes/design-web-page-css)
 
 ## Reading References
 
@@ -19,3 +20,4 @@
 - [Linux Tutorial - 2. Navigation](https://ryanstutorials.net/linuxtutorial/navigation.php)
 - [Linux Tutorial - 3. More About Files](https://ryanstutorials.net/linuxtutorial/aboutfiles.php)
 - [Introduction to Git](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/)
+- HTML & CSS by Jon Duckett, Chapter 10: Introducing CSS & Chapter 11: Color
