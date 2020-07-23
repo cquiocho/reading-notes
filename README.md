@@ -11,6 +11,7 @@
 - [Structure Web Pages with HTML](https://cquiocho.github.io/reading-notes/structure-web-page-html)
 - [Design Web Pages with CSS](https://cquiocho.github.io/reading-notes/design-web-page-css)
 - [Dynamic Web Pages with JavaScript](https://cquiocho.github.io/reading-notes/dynamic-web-page-javascript)
+- [Computer Architecture and Logic](https://cquiocho.github.io/reading-notes/computer-architecture-and-logic)
 - [Programming with JavaScript](https://cquiocho.github.io/reading-notes/programming-with-javascript)
 - [Operators and Loops](https://cquiocho.github.io/reading-notes/operators-and-loops)
 
@@ -25,5 +26,6 @@
 - [Introduction to Git](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/)
 - HTML & CSS by Jon Duckett, Chapter 10: Introducing CSS & Chapter 11: Color
 - JavaScript & jQuery by Jon Duckett, Chapter 1/c: How Do I Write a Script for a Web Page & Chapter 2: Basic JavaScript Instructions
+- [How Computers Work](https://www.youtube.com/playlist?list=PLzdnOPI1iJNcsRwJhvksEo1tJqjIqWbN-)
 - JavaScript & jQuery by Jon Duckett, Introduction, Pages 74 -79 & Pages 88 - 94
 - JavaScript & jQuery by Jon Duckett, Pages 150 - 151, Pages 156 - 157, Pages 170 - 173 & Page 176
