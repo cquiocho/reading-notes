@@ -9,7 +9,7 @@
 - '==' - **Is equal to**. Compares two values to see if they are the same.
 - '!=' - **Is not equal to**. Compares two values to see if they are not the same.
 - '===' - **Strict equal to**. Compares two values to check that both the data type and value are the same.
-- '!==' - **Strict not equal to**. Compares two values to chech that both the data type and value are not the same.
+- '!==' - **Strict not equal to**. Compares two values to check that both the data type and value are not the same.
 - '>' - **Greater than**. Checks if the number on the left is greater than the number on the right.
 - '<' - **Less than**. Checks if the number on the left is less than the number on the right.
 - '>=' - **Greater than or equal to**. Checks if the number on the left is greater than or equal to the number on the right.
