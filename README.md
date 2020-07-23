@@ -12,6 +12,7 @@
 - [Design Web Pages with CSS](https://cquiocho.github.io/reading-notes/design-web-page-css)
 - [Dynamic Web Pages with JavaScript](https://cquiocho.github.io/reading-notes/dynamic-web-page-javascript)
 - [Programming with JavaScript](https://cquiocho.github.io/reading-notes/programming-with-javascript)
+- [Operators and Loops](https://cquiocho.github.io/reading-notes/operators-and-loops)
 
 ## Reading References
 
@@ -25,3 +26,4 @@
 - HTML & CSS by Jon Duckett, Chapter 10: Introducing CSS & Chapter 11: Color
 - JavaScript & jQuery by Jon Duckett, Chapter 1/c: How Do I Write a Script for a Web Page & Chapter 2: Basic JavaScript Instructions
 - JavaScript & jQuery by Jon Duckett, Introduction, Pages 74 -79 & Pages 88 - 94
+- JavaScript & jQuery by Jon Duckett, Pages 150 - 151, Pages 156 - 157, Pages 170 - 173 & Page 176
