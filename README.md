@@ -1,9 +1,32 @@
-![Alt Text](https://www.infiniticube.com/images/Custom-Software-Development.png)     
+![Alt Text](https://p0.pxfuel.com/preview/104/672/906/abstract-php-c-analytics-royalty-free-thumbnail.jpg)     
      
      
-## ***My name is Christopher Quiocho. I am originally from Honolulu, HI and now reside in Seattle, WA. After several years as an Executive Administrator, I have made the decision to pursue a career in Software Development.***     
-     
-## Table of Contents
+## ***My name is Christopher Quiocho (he/him) and I am originally from Honolulu, HI. I have been an Executive Administrator for quite some time, primarily in Finance and Marketing. Prior to that, I was a Talent and Business Development Manager for several years. I had the pleasure of traveling and facilitating continuing education classes and training throughout North America.***
+```
+## ***Having gone through Code 101 & 102, I am feeling confident and motivated. I am realizing that Software Development is a great fit for me and is a career that I can see myself succeeding in. I am excited to continue with this new career path and looking forward to this journey with Code Fellows.***
+
+## Code 201 - Reading Notes
+
+### The following links are the notes of my journey through Code 201. These notes will provide reference to the information and resources provided throughout this course for the purpose of becoming a successful Software Developer.
+
+- [Reading 1](https://cquiocho.github.io/reading-notes/)
+- [Reading 2](https://cquiocho.github.io/reading-notes/)
+- [Reading 3](https://cquiocho.github.io/reading-notes/)
+- [Reading 4](https://cquiocho.github.io/reading-notes/)
+- [Reading 5](https://cquiocho.github.io/reading-notes/)
+- [Reading 6](https://cquiocho.github.io/reading-notes/)
+- [Reading 7](https://cquiocho.github.io/reading-notes/)
+- [Reading 8](https://cquiocho.github.io/reading-notes/)
+- [Reading 9](https://cquiocho.github.io/reading-notes/)
+- [Reading 10](https://cquiocho.github.io/reading-notes/)
+- [Reading 11](https://cquiocho.github.io/reading-notes/)
+- [Reading 12](https://cquiocho.github.io/reading-notes/)
+- [Reading 13](https://cquiocho.github.io/reading-notes/)
+- [Reading 14](https://cquiocho.github.io/reading-notes/)
+- [Reading 15](https://cquiocho.github.io/reading-notes/)
+
+
+## Code 102 - Reading Notes
 
 - [Learning Markdown](https://cquiocho.github.io/reading-notes/learning-markdown)
 - [The Coder's Computer](https://cquiocho.github.io/reading-notes/the-coders-computer)
@@ -15,7 +38,7 @@
 - [Programming with JavaScript](https://cquiocho.github.io/reading-notes/programming-with-javascript)
 - [Operators and Loops](https://cquiocho.github.io/reading-notes/operators-and-loops)
 
-## Reading References
+## Code 102 - Reading References
 
 - [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 - [Markdown Syntax](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)
