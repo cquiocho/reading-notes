@@ -1,8 +1,13 @@
-![Alt Text](https://p0.pxfuel.com/preview/104/672/906/abstract-php-c-analytics-royalty-free-thumbnail.jpg)     
-        
+![Alt Text](https://www.picpedia.org/highway-signs/images/software-development.jpg)     
+
+
 ## ***My name is Christopher Quiocho (he/him) and I am originally from Honolulu, HI. I have been an Executive Administrator for quite some time, primarily in Finance and Marketing. Prior to that, I was a Talent and Business Development Manager for several years. I had the pleasure of traveling and facilitating continuing education classes and training throughout North America.***
 
 ## ***Having gone through Code 101 & 102, I am feeling confident and motivated. I am realizing that Software Development is a great fit for me and is a career that I can see myself succeeding in. I am excited to continue with this new career path and looking forward to this journey with Code Fellows.***
+
+
+![Alt Text](https://upload.wikimedia.org/wikipedia/commons/c/c1/US_201.svg) 
+
 
 ## Code 201 - Reading Notes
 
@@ -23,6 +28,9 @@
 - [Reading 13](https://cquiocho.github.io/reading-notes/)
 - [Reading 14](https://cquiocho.github.io/reading-notes/)
 - [Reading 15](https://cquiocho.github.io/reading-notes/)
+
+
+![Alt Text](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/PR_urban_primary_102.svg/750px-PR_urban_primary_102.svg.png)  
 
 
 ## Code 102 - Reading Notes
