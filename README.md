@@ -47,15 +47,15 @@
 
 ## Code 102 - Reading References
 
-- [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
-- [Markdown Syntax](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)
-- [Choosing a Text Editor](https://codefellows.github.io/code-102-guide/curriculum/class-02/Choosing-A-Text-Editor--The-Older-Coder.pdf)
-- [Linux Tutorial - 1. The Command Line](https://ryanstutorials.net/linuxtutorial/commandline.php)
-- [Linux Tutorial - 2. Navigation](https://ryanstutorials.net/linuxtutorial/navigation.php)
-- [Linux Tutorial - 3. More About Files](https://ryanstutorials.net/linuxtutorial/aboutfiles.php)
-- [Introduction to Git](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/)
-- HTML & CSS by Jon Duckett, Chapter 10: Introducing CSS & Chapter 11: Color
-- JavaScript & jQuery by Jon Duckett, Chapter 1/c: How Do I Write a Script for a Web Page & Chapter 2: Basic JavaScript Instructions
-- [How Computers Work](https://www.youtube.com/playlist?list=PLzdnOPI1iJNcsRwJhvksEo1tJqjIqWbN-)
-- JavaScript & jQuery by Jon Duckett, Introduction, Pages 74 -79 & Pages 88 - 94
-- JavaScript & jQuery by Jon Duckett, Pages 150 - 151, Pages 156 - 157, Pages 170 - 173 & Page 176
+1. [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
+1. [Markdown Syntax](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)
+1. [Choosing a Text Editor](https://codefellows.github.io/code-102-guide/curriculum/class-02/Choosing-A-Text-Editor--The-Older-Coder.pdf)
+1. [Linux Tutorial - 1. The Command Line](https://ryanstutorials.net/linuxtutorial/commandline.php)
+1. [Linux Tutorial - 2. Navigation](https://ryanstutorials.net/linuxtutorial/navigation.php)
+1. [Linux Tutorial - 3. More About Files](https://ryanstutorials.net/linuxtutorial/aboutfiles.php)
+1. [Introduction to Git](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/)
+1. HTML & CSS by Jon Duckett, Chapter 10: Introducing CSS & Chapter 11: Color
+1. JavaScript & jQuery by Jon Duckett, Chapter 1/c: How Do I Write a Script for a Web Page & Chapter 2: Basic JavaScript Instructions
+1. [How Computers Work](https://www.youtube.com/playlist?list=PLzdnOPI1iJNcsRwJhvksEo1tJqjIqWbN-)
+1. JavaScript & jQuery by Jon Duckett, Introduction, Pages 74 -79 & Pages 88 - 94
+1. JavaScript & jQuery by Jon Duckett, Pages 150 - 151, Pages 156 - 157, Pages 170 - 173 & Page 176
