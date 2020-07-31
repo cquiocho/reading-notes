@@ -6,7 +6,7 @@
 ## ***Having gone through Code 101 & 102, I am feeling confident and motivated. I am realizing that Software Development is a great fit for me and is a career that I can see myself succeeding in. I am excited to continue with this new career path and looking forward to this journey with Code Fellows.***
 
 
-![Alt Text](https://c0.wallpaperflare.com/preview/104/672/906/abstract-php-c-analytics-thumbnail.jpg) 
+![Alt Text](https://storage.needpix.com/rsynced_images/programmer-3266860_1280.jpg) 
 
 
 ## Code 201 - Reading Notes
@@ -30,7 +30,7 @@
 - [Reading 15](https://cquiocho.github.io/reading-notes/)
 
 
-![Alt Text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fpixabay.com%2Fillustrations%2Fhtml-technology-computer-1695519%2F&psig=AOvVaw26BSZrjw-CsDu7K_qjt43h&ust=1596247270325000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMDt1M6y9uoCFQAAAAAdAAAAABAD)  
+![Alt Text](https://storage.needpix.com/rsynced_images/html-1695519_1280.png)  
 
 
 ## Code 102 - Reading Notes
