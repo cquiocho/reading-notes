@@ -10,12 +10,12 @@
 
 ### Common HTML Elements
 
-- Body - <body></body> Everything within this element is shown in the browser window.
-- Document Type - <html></html> Doctype declaration.
-- Footer - <footer></footer>
-- Head - <head></head> Contains information about the page, particularly a <title></title> and other metadata not shown in the browser window.
-- Heading - <h1></h1> Use of headings and subheadings reflect hierarchy of information.
-- Paragraph - <p></p> 
+- Body - `<body></body>` Everything within this element is shown in the browser window.
+- Document Type - `<html></html>` Doctype declaration.
+- Footer - `<footer></footer>`
+- Head - `<head></head>` Contains information about the page, particularly a `<title></title>` and other metadata not shown in the browser window.
+- Heading - `<h1></h1>` Use of headings and subheadings reflect hierarchy of information.
+- Paragraph - `<p></p> `
 
 ### Evolution of HTML & Extra Markup
 
