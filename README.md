@@ -14,7 +14,7 @@
 ### The following links are the notes of my journey through Code 201. These notes will provide reference to the information and resources provided throughout this course for the purpose of becoming a successful Software Developer.
 
 1. [Introductory HTML and JavaScript](https://cquiocho.github.io/reading-notes/class-01)
-1. [HTML Text, CSS Introduction and Basic JavaScript Instructions](https://cquiocho.github.io/reading-notes/)
+1. [HTML Text, CSS Introduction and Basic JavaScript Instructions](https://cquiocho.github.io/reading-notes/class-02)
 1. [HTML Lists, CSS Boxes and JavaScript Control Flow](https://cquiocho.github.io/reading-notes/)
 1. [HTML Links, CSS Layout and JavaScript Functions](https://cquiocho.github.io/reading-notes/)
 1. [HTML Images; CSS Color & Text](https://cquiocho.github.io/reading-notes/)
