@@ -14,16 +14,16 @@
 ### The following links are the notes of my journey through Code 201. These notes will provide reference to the information and resources provided throughout this course for the purpose of becoming a successful Software Developer.
 
 1. [Introductory HTML and JavaScript](https://cquiocho.github.io/reading-notes/class-01)
-1. [Reading 2](https://cquiocho.github.io/reading-notes/)
-1. [Reading 3](https://cquiocho.github.io/reading-notes/)
-1. [Reading 4](https://cquiocho.github.io/reading-notes/)
-1. [Reading 5](https://cquiocho.github.io/reading-notes/)
-1. [Reading 6](https://cquiocho.github.io/reading-notes/)
-1. [Reading 7](https://cquiocho.github.io/reading-notes/)
-1. [Reading 8](https://cquiocho.github.io/reading-notes/)
-1. [Reading 9](https://cquiocho.github.io/reading-notes/)
-1. [Reading 10](https://cquiocho.github.io/reading-notes/)
-1. [Reading 11](https://cquiocho.github.io/reading-notes/)
+1. [HTML Text, CSS Introduction and Basic JavaScript Instructions](https://cquiocho.github.io/reading-notes/)
+1. [HTML Lists, CSS Boxes and JavaScript Control Flow](https://cquiocho.github.io/reading-notes/)
+1. [HTML Links, CSS Layout and JavaScript Functions](https://cquiocho.github.io/reading-notes/)
+1. [HTML Images; CSS Color & Text](https://cquiocho.github.io/reading-notes/)
+1. [JavaScript Object Literals; The DOM](https://cquiocho.github.io/reading-notes/)
+1. [HTML Tables; JavaScript Constructor Functions](https://cquiocho.github.io/reading-notes/)
+1. [More CSS Layout](https://cquiocho.github.io/reading-notes/)
+1. [Forms and Events](https://cquiocho.github.io/reading-notes/)
+1. [JavaScript Debugging](https://cquiocho.github.io/reading-notes/)
+1. [Assorted Topics](https://cquiocho.github.io/reading-notes/)
 1. [Reading 12](https://cquiocho.github.io/reading-notes/)
 1. [Reading 13](https://cquiocho.github.io/reading-notes/)
 1. [Reading 14](https://cquiocho.github.io/reading-notes/)
@@ -32,6 +32,7 @@
 ## Code 201 - Reading References
 
 - HTML & CSS by Jon Duckett, Introduction, Chapter 1: Structure, Chapter 8: Extra Markup, Chapter 17: HTML5 Layout & Chapter 18: Process & Design. JavaScript & jQuery by Jon Duckett, Introduction & Chapter 1: The ABC of Programming
+- HTML & CSS by Jon Duckett, Chapter 2: Text, Chapter 10: Introducing CSS. JavaScript & jQuery by Jon Duckett, Chapter 2: Basic JavaScript Instructions, Chapter 4: Decisions and Loops
 
 
 ![Alt Text](https://storage.needpix.com/rsynced_images/html-1695519_1280.png)  
