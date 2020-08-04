@@ -13,7 +13,7 @@
 
 ### The following links are the notes of my journey through Code 201. These notes will provide reference to the information and resources provided throughout this course for the purpose of becoming a successful Software Developer.
 
-1. [Reading 1](https://cquiocho.github.io/reading-notes/)
+1. [Introductory HTML and JavaScript](https://cquiocho.github.io/reading-notes/class-01)
 1. [Reading 2](https://cquiocho.github.io/reading-notes/)
 1. [Reading 3](https://cquiocho.github.io/reading-notes/)
 1. [Reading 4](https://cquiocho.github.io/reading-notes/)
@@ -28,6 +28,10 @@
 1. [Reading 13](https://cquiocho.github.io/reading-notes/)
 1. [Reading 14](https://cquiocho.github.io/reading-notes/)
 1. [Reading 15](https://cquiocho.github.io/reading-notes/)
+
+## Code 201 - Reading References
+
+- HTML & CSS by Jon Duckett, Introduction, Chapter 1: Structure, Chapter 8: Extra Markup, Chapter 17: HTML5 Layout & Chapter 18: Process & Design. JavaScript & jQuery by Jon Duckett, Introduction & Chapter 1: The ABC of Programming
 
 
 ![Alt Text](https://storage.needpix.com/rsynced_images/html-1695519_1280.png)  
