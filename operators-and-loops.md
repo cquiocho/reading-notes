@@ -20,7 +20,7 @@
 ### Allows you to compare the results of more than one comparison operator.
 
 - '&&' - Logical **and**. Tests more than one condition.
-- '||' - Logical **or**. Tests at least one condition.
+- `||` - Logical **or**. Tests at least one condition.
 - '!' - Logical **not**.  Takes a single Boolean value and inverts it.
 
 ## Loops
