@@ -104,4 +104,19 @@
   - Box-Shadow - Allows you to add a drop shadow around box.
   - Border-Radius - Creates rounded corners and more rounded box shapes.
 
+![Alt Text](https://www.simplilearn.com/ice9/free_resources_article_thumb/X_Reasons_to_learn_Javascript.jpg)
+
+## Arrays
+
+*An array is a special type of variable that doesn't just store one value, it stores a **list of values**.*
+
+*Consider using an array when you are working with a list or set of values that are related.*
+
+### Values in an Array
+
+- Values in an array are identified in a numbered list.
+- Each item is given a *index* number, numbering starts at 0.
+- To access an item, array name is specified along with the index number.
+- Length property holds the number of items in the array.
+
 
