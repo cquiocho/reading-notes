@@ -117,6 +117,38 @@
 - Values in an array are identified in a numbered list.
 - Each item is given a *index* number, numbering starts at 0.
 - To access an item, array name is specified along with the index number.
-- Length property holds the number of items in the array.
+- Length property holds the number of items in the array. *Always remember that the array index starts at 0*.
+
+- Push - Command that adds an item to the end of an array.
+- Pop - Command that removes the last item in an array.
+
+### If...Else Statements
+
+- These statements will check a condition.
+- If it is **true**, the first code block is executed.
+- If it is **false**, the next code is executed instead.
+
+### Switch Statements
+
+- Starts with a *switch value* and a list of possible *cases*.
+- Purpose is to present different values or messages depending on how the switch value is answered.
+- There is a *default* option if none of the cases match.
+- If a match is found, a specific case is run.
+- A *break* statement is used to stop the rest of the switch statement.
+
+## Loops
+
+### Will continuously check a condition until it returns false. There are three common types of loops:
+
+1. **For** - Code will run for a specific number of times, usually set as a counter.
+    - *Initialization* - Create a variable and set to 0.
+      > var i = 0;
+    - *Condition* - Will run until the counter reaches a specific number.
+      > i < 10;
+    - *Update* - Each time the loop runs will add one to the counter.
+      > i++
+1. **While** - Code will run for as long as the condition is true.
+1. **Do While** - Code will continue to run even if the condition evaluates as false.
 
 
+[<== Back to Main Readme](README.md)
