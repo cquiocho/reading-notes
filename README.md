@@ -15,7 +15,7 @@
 
 1. [Introductory HTML and JavaScript](https://cquiocho.github.io/reading-notes/class-01)
 1. [HTML Text, CSS Introduction and Basic JavaScript Instructions](https://cquiocho.github.io/reading-notes/class-02)
-1. [HTML Lists, CSS Boxes and JavaScript Control Flow](https://cquiocho.github.io/reading-notes/)
+1. [HTML Lists, CSS Boxes and JavaScript Control Flow](https://cquiocho.github.io/reading-notes/class-03)
 1. [HTML Links, CSS Layout and JavaScript Functions](https://cquiocho.github.io/reading-notes/)
 1. [HTML Images; CSS Color & Text](https://cquiocho.github.io/reading-notes/)
 1. [JavaScript Object Literals; The DOM](https://cquiocho.github.io/reading-notes/)
@@ -33,6 +33,7 @@
 
 - HTML & CSS by Jon Duckett, Introduction, Chapter 1: Structure, Chapter 8: Extra Markup, Chapter 17: HTML5 Layout & Chapter 18: Process & Design. JavaScript & jQuery by Jon Duckett, Introduction & Chapter 1: The ABC of Programming
 - HTML & CSS by Jon Duckett, Chapter 2: Text, Chapter 10: Introducing CSS. JavaScript & jQuery by Jon Duckett, Chapter 2: Basic JavaScript Instructions, Chapter 4: Decisions and Loops
+- HTML & CSS by Jon Duckett, Chapter 3: Lists, Chapter 13: Boxes. JavaScript & jQuery by Jon Duckett, Chapter 2: Basic JavaScript Instructions (Arrays), Chapter 4: Decisions and Loops (Continued)
 
 
 ![Alt Text](https://storage.needpix.com/rsynced_images/html-1695519_1280.png)  
