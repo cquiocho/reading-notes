@@ -51,7 +51,7 @@
 - *Logical Operators* combine expressions and return **true** or **false**:
   > buy = (5 > 3) && (2 < 4);
 
-**Functions group a series of statements together to perform a specific task**
+**Functions group a series of statements together to perform a specific task.**
 
 - *Function Declaration* - giving a name to the function and writing the statements needed to achieve the task inside curly braces.
   > function sayHello() {

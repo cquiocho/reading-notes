@@ -1,0 +1,137 @@
+![Alt Text](https://storage.needpix.com/rsynced_images/html-1695519_1280.png)
+
+## HTML Links
+
+### Common Types of Links:
+> Links from one website to another
+> Links from one page to another on the same website
+> Links from one part of a web page to another part of the same page
+> Links that open in a new browser window
+> Links that start up you email and address a new email to someone
+
+#### Links are created by:
+  1. Using the `<a>``</a>` element.
+  1. Using the *href* attribute.
+  1. Using a *page link*.
+  1. Using a *link text* that explains where.
+
+Example: `<a href="http://www.imdb.com">IMDB</a>`
+
+**URL - Uniform Resource Locator**
+
+- Linking to other sites require an:
+    - *Absolute* URL, full website address.
+- Linking to other pages on the same site:
+    - *Relative* URL, also known as shorthand.
+- Email Links require:
+    - *mailto:* in the href attribute: `<a href="mailto:james@hot.com>`
+- Opening links in a new window requires:
+    - *target* attribute: `<a href="http://website" target="_blank">`
+- Linking to a specific part of the same page uses:
+    - *id* attribute: `<h1 id="top"></hi>` - `<a href="#top"></a>`
+- Linking to a specific part of another page uses:
+    - *id* attribute that identify specific parts of the page using # symbol. `<a href="http://website.com/#bottom>`
+
+![Alt Text](https://p0.pxfuel.com/preview/920/519/697/abstract-php-c-analytics.jpg)
+
+## Layouts
+
+
+
+
+
+
+![Alt Text](https://www.simplilearn.com/ice9/free_resources_article_thumb/X_Reasons_to_learn_Javascript.jpg)
+
+## Functions
+
+**Functions group a series of statements together to perform a specific task.**
+
+- *Function Declaration* - giving a name to the function and writing the statements needed to achieve the task inside curly braces.
+  > function sayHello() {
+  >    document.write('Hello!');
+  > }
+
+- *Calling the Function* - following function declaration, you can execute all of the statements within curly brackets with just one line of code.
+  > sayHello();
+
+- *Parameters* - specific information inside a function needed to perform the task. Inputted upon function declaration.
+  > function getArea(width, height) {
+  >    return width * height;
+  > }
+
+- *Arguments* - specific values or variables found in parenthesis following a function with parameters.
+   
+   1. Arguments with Values:
+      > getArea(3, 5);
+
+   1. Arguments with Variables:
+      > wallWidth = 3
+      > wallWidth = 5
+      > getArea (wallWidth, wallHeight);
+
+
+![Alt Text](http://res.publicdomainfiles.com/pdf_view/70/13929280214608.png)
+
+## 6 Reasons for Pair Programming
+
+### What is Pair Programming?
+
+**A common technique that utilizes several software engineering practices that dramatically improve the quality of code developers produce. These include:**
+  - Iterative Loops
+  - Code Reviews
+  - Fast Feedback
+  - Error Checking
+  - Linting
+
+### How does it work?
+
+**Commonly involves two roles:**
+  
+  - *Driver* - The programmer who is typing and handling the mechanics of coding, managing the text editor, switching files, version control and writing code.
+  
+  - *Navigator* - Guides the driver but does not write code. They foresee what comes next, how to convert an algorithm into code, scans for typos and bugs and utilizes their computer to look up solutions and documentation.
+
+### Why?
+
+**Pair programming utilizes four fundamental skills needed to lean a new language:**
+
+1. Listening - Hearing and interpreting vocabulary.
+1. Speaking - Using the words to communicate an idea.
+1. Reading - Understanding the written language.
+1. Writing - Producing the written language.
+
+### 6 Reasons
+
+1. Greater Efficiency:
+    - Produces higher-quality code that doesn't require very much troubleshooting and debugging.
+    - Find and create solutions faster.
+    - Enhances technical skills.
+    - Improves team communication.
+    - Increases enjoyability in the workplace.
+
+1. Engaged Collaboration:
+    - Coding is more engaging.
+    - Programmers are more focused.
+    - Difficult to procrastinate working as a team.
+    - Help is readily available by relying on each other.
+    - Boosts overall confidence.
+
+1. Learning from Fellow Students:
+    - Different approaches to problem solving.
+    - Exposure to different skill sets.
+    - Helps to solidify understanding.
+
+1. Social Skills:
+    - Improves communication.
+    - Improves interpersonal skills.
+
+1. Job Interview Readiness:
+    - A common step in interview processes involves pair programming.
+    - Improves ability to work with and learn from others.
+
+1. Work Environment Readiness:
+    - Familiarity with pair programming.
+
+
+[<== Back to Main Readme](README.md)
