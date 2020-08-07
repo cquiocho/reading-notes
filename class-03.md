@@ -119,8 +119,13 @@
 - To access an item, array name is specified along with the index number.
 - Length property holds the number of items in the array. *Always remember that the array index starts at 0*.
 
-- Push - Command that adds an item to the end of an array.
-- Pop - Command that removes the last item in an array.
+- .push - Command that adds an item to the end of an array.
+- .pop - Command that removes the last item in an array.
+- .unshift - Command that adds an item to the beginning of an array.
+- .shift - Command that removes the first item in an array.
+- .indexOf - Command that returns the index of an item in an array.
+- .splice - Command that removes and/or adds items to an array.
+      `(indexToBegin, #ofElementsTo Remove, elementsToAdd)`
 
 ### If...Else Statements
 

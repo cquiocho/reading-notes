@@ -32,6 +32,7 @@ Example: `<a href="http://www.imdb.com">IMDB</a>`
 - Linking to a specific part of another page uses:
     - *id* attribute that identify specific parts of the page using # symbol. `<a href="http://website.com/#bottom>`
 
+*Use `../` to go back a directory in a relative URL.*
 
 ![Alt Text](https://p0.pxfuel.com/preview/920/519/697/abstract-php-c-analytics.jpg)
 
