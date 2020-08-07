@@ -31,7 +31,7 @@ Example: `<a href="http://www.imdb.com">IMDB</a>`
     - *id* attribute: `<h1 id="top"></hi>` - `<a href="#top"></a>`
 - Linking to a specific part of another page uses:
     - *id* attribute that identify specific parts of the page using # symbol. `<a href="http://website.com/#bottom>`
-    
+
 
 ![Alt Text](https://p0.pxfuel.com/preview/920/519/697/abstract-php-c-analytics.jpg)
 
@@ -39,8 +39,10 @@ Example: `<a href="http://www.imdb.com">IMDB</a>`
 
 *Block Level Elements* - Start on a new line and will take up an entire line on the page.
   - example: `<section>` and `<div>`
-*Inline Level Elemenst* - Flow in between surrounding text and will only take up as much space needed.
+
+*Inline Level Elements* - Flow in between surrounding text and will only take up as much space needed.
   - example: `<span>` and `<img>`
+
 *Parent Element* - The outer block level element that has another block level element inside of it.
 
 ### Positioning Schemes
