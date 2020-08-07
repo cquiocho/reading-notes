@@ -2,6 +2,8 @@
 
 ## Images
 
+<a href="http://www.unsplash.com">Image Website</a>
+
 ### Adding Images
 
 - To add an image, you must use an `<img>` element and must have the following attributes:
@@ -14,6 +16,8 @@
 - It is very common to see an `<img>` element use the following attributes:
   - **height** - Specifies height of the image in pixels.
   - **width** - Specifies width of the image in pixels.
+
+*It is recommended to only adjust width or height, not both.*
 
 ### Position of Images
 
@@ -51,7 +55,7 @@
 
 ### **Characteristics of Color:**
 
-- **Hue** is the visual appearance of the color
+- **Hue** is the visual appearance of the color.
 - **Saturation** is the amount of gray in a color. Maximum saturation would have no gray.
 - **Brightness** is the amount of black in a color. Maximum brightness would have no black. 
 
@@ -79,3 +83,24 @@
 - Cursive - Have joining strokes or handwriting styles.
 - Fantasy - Decorative and often used for titles.
 
+### Typeface Techniques
+
+- Font-Family - Property allows you to specify typeface.
+- Font-Size - Property that adjusts size in pixels, percentage or ems.
+- Font-Face - Allows you to use a font even if it isn't installed on the browser.
+- Font-Weight - Creates bold text. Has two values: normal and bold.
+- Font-Style - Creates italic text. Values: normal, italic, oblique.
+- Text-Transform - Values: uppercase, lowercase, capitalize.
+- Text Decoration - Values: none, underline, overline, line-through, blink.
+- Line-Height - *Leading* use for the vertical space between lines of text.
+- Letter-Spacing - *Kerning* use for the space between each letter.
+- Word-Spacing - Property that changes the spacing between words.
+- Text-Align - Values: left, right, center, justify.
+- Vertical -Align - Primariy used with inline elements and an image. Values: baseline, sub, super, top, middle, bottom, text-top, text-bottom.
+- Text-Indent - Allows you to indent the first line of text.
+
+- First-Letter / First-Line - Pseudo-element that allows you to specify different values for the first letter or first line of text.
+- Link / Visited - Allows for links that have and have not been visited.
+
+
+[<== Back to Main Readme](README.md)
