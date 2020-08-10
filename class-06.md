@@ -65,6 +65,8 @@
       1. When the browser loads a web page, it creates a **DOM tree**, which is a model of the web page in memory.
       1. Is able to make changes and redefine information within the DOM tree with JavaScript which updates what is loaded in the browser web page.
 
+**Example:**
+
 - An attribute of `id` or the like should be identified in the HTML.
 - Retrieve a document from the DOM: `var parent = document.getElementByID();`
 - If creating a new element: `var listItem = document.createElement('li');`
