@@ -21,7 +21,7 @@
 
 **An object cannot have keys with the same name.**
 
-**A value of a property can be a *string*, *number*, *Boolean*, *array* or *another object*.**
+**A value of a property (key) can be a *string*, *number*, *Boolean*, *array* or *another object*.**
 
 **The value of a method is always a *function*.**
 
@@ -43,9 +43,12 @@
 `var roomsFree = hotel.checkAvailability();`
 
 > You can also access a property or method of an object with square brackets and parenthesis.
+  - Necessary to access keys with special characters.
 
 `var hotelName = hotel['name'];`
 `var roomsFree = hotel['checkAvailability']();`
+
+**Contextual "this." is the keyword used to identify a key within the object.**
 
 
 ![Alt Text](https://www.simplilearn.com/ice9/free_resources_article_thumb/X_Reasons_to_learn_Javascript.jpg)
@@ -53,12 +56,20 @@
 
 ## DOM - Document Object Model
 
+**The Document Object Model (DOM) communicates how a browser will create a model/copy of an HTML page and allows JavaScript to access and update the HTML content of the web page.**
+
 > The DOM is not part of the HTML and is not part of JavaScript.
   - The DOM is a separate set of rules.
   - The DOM is implemented by browser makers.
   - The DOM is comprised of two primary areas.
-      1. When the browser loads a web page, it creates a **DOM tree**, which is a model of the page in memory.
-      1. Is able to make changes and redefine information within the DOM tree which updates what is loaded in the browser web page.
+      1. When the browser loads a web page, it creates a **DOM tree**, which is a model of the web page in memory.
+      1. Is able to make changes and redefine information within the DOM tree with JavaScript which updates what is loaded in the browser web page.
+
+> An attribute of `id` or the like should be identified in the HTML.
+> Retrieve a document from the DOM: `var parent = document.getElementByID();`
+> If creating a new element: `var listItem = document.createElement('li');`
+> Fill the new element with content: `listItem.textContent = 'I am text content';`
+> Append it to the DOM: `parent.appendChild(listItem);`
 
 
 

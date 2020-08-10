@@ -11,6 +11,8 @@
   - **alt** - This provides a text description of the image.
   - **title** - Provides additional information of the image.
 
+`<img src="images/location" alt="text description" title="additional info" />`
+
 ### Height and Width of Images
 
 - It is very common to see an `<img>` element use the following attributes:
