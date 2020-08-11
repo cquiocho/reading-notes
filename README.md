@@ -19,7 +19,7 @@
 1. [HTML Links, CSS Layout and JavaScript Functions](https://cquiocho.github.io/reading-notes/class-04)
 1. [HTML Images; CSS Color & Text](https://cquiocho.github.io/reading-notes/class-05)
 1. [JavaScript Object Literals; The DOM](https://cquiocho.github.io/reading-notes/class-06)
-1. [HTML Tables; JavaScript Constructor Functions](https://cquiocho.github.io/reading-notes/)
+1. [HTML Tables; JavaScript Constructor Functions](https://cquiocho.github.io/reading-notes/class-07)
 1. [More CSS Layout](https://cquiocho.github.io/reading-notes/)
 1. [Forms and Events](https://cquiocho.github.io/reading-notes/)
 1. [JavaScript Debugging](https://cquiocho.github.io/reading-notes/)
@@ -37,7 +37,10 @@
 - HTML & CSS by Jon Duckett, Chapter 4: Links, Chapter 15: Layout. JavaScript & jQuery by Jon Duckett, Chapter 3 (First Part): Functions, Methods and Objects.
 - [6 Reasons for Pair Programming](https://www.codefellows.org/blog/6-reasons-for-pair-programming/)
 - HTML & CSS by Jon Duckett, Chapter 5: Images, Chapter 11: Color, Chapter 12: Text.
+- [Understanding the problem domain is the hardest part of programming](https://simpleprogrammer.com/understanding-the-problem-domain-is-the-hardest-part-of-programming/)
 - JavaScript & jQuery by Jon Duckett, Chapter 3: Object Literals (pp. 100-105), Chapter 5: Document Object Model.
+- [Domain Modeling](https://github.com/codefellows/domain_modeling#domain-modeling)
+- HTML & CSS by Jon Duckett, Chapter 6: Tables. JavaScript & jQuery by Jon Duckett, Chapter 3: Functions, Methods and Objects.
 
 ![Alt Text](https://storage.needpix.com/rsynced_images/html-1695519_1280.png)  
 
