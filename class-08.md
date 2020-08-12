@@ -14,15 +14,15 @@
 
 #### There are 5 positioning schemes:
 
-  - Normal Flow - Also known as *static positioning*, is the default behavior unless the browser is told to do something else. Every block element appears on a new line.
+  - **Normal Flow** - Also known as *static positioning*, is the default behavior unless the browser is told to do something else. Every block element appears on a new line.
 
-  - Relative Positioning - Moves an element to the top, right, bottom or left of where it would have been by default.
+  - **Relative Positioning** - Moves an element to the top, right, bottom or left of where it would have been by default.
 
-  - Absolute Positioning - Element is taken out of normal flow and is positioned in relation to its containing element. It will move as users scroll through the page.
+  - **Absolute Positioning** - Element is taken out of normal flow and is positioned in relation to its containing element. It will move as users scroll through the page.
 
-  - Fixed Positioning - Positions the element in relation to the browser window. It is taken out of normal flow and will not move as users scroll through the page.
+  - **Fixed Positioning** - Positions the element in relation to the browser window. It is taken out of normal flow and will not move as users scroll through the page.
 
-  - Floating Elements - Element is taken out of normal flow and positions it to the left or right of a containing box allowing content to flow around it. It is important to use the width property with this positioning.
+  - **Floating Elements** - Element is taken out of normal flow and positions it to the left or right of a containing box allowing content to flow around it. It is important to use the width property with this positioning.
 
 *When using relative, fixed or absolute positioning boxes can overlap.*
 
