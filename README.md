@@ -20,7 +20,7 @@
 1. [HTML Images; CSS Color & Text](https://cquiocho.github.io/reading-notes/class-05)
 1. [JavaScript Object Literals; The DOM](https://cquiocho.github.io/reading-notes/class-06)
 1. [HTML Tables; JavaScript Constructor Functions](https://cquiocho.github.io/reading-notes/class-07)
-1. [More CSS Layout](https://cquiocho.github.io/reading-notes/)
+1. [More CSS Layout](https://cquiocho.github.io/reading-notes/class-08)
 1. [Forms and Events](https://cquiocho.github.io/reading-notes/)
 1. [JavaScript Debugging](https://cquiocho.github.io/reading-notes/)
 1. [Assorted Topics](https://cquiocho.github.io/reading-notes/)
@@ -41,6 +41,7 @@
 - JavaScript & jQuery by Jon Duckett, Chapter 3: Object Literals (pp. 100-105), Chapter 5: Document Object Model.
 - [Domain Modeling](https://github.com/codefellows/domain_modeling#domain-modeling)
 - HTML & CSS by Jon Duckett, Chapter 6: Tables. JavaScript & jQuery by Jon Duckett, Chapter 3: Functions, Methods and Objects.
+- HTML & CSS by Jon Duckett, Chapter 15: Layout.
 
 ![Alt Text](https://storage.needpix.com/rsynced_images/html-1695519_1280.png)  
 
