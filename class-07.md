@@ -34,11 +34,12 @@
 
 
 ![Alt Text](https://www.simplilearn.com/ice9/free_resources_article_thumb/X_Reasons_to_learn_Javascript.jpg)
+
 ## Constructor Functions
 
 > Used to create multiple objects within the same page by contructing a template for the objects.
 
-<a href="images.object constructor">Object Constructor</a>
+<a href="images.object-constructor">Object Constructor</a>
 
 - *An object constructor is essentially a function that creates a template for creating several new objects.*
 
@@ -50,11 +51,32 @@
 
 **Contextual "this." is the keyword used to identify a key within the object.**
 
+### Constructor Ordering
+
+*JavaScript reads the `<script>` from top to bottom. Due to this, the **ordering** of information and data input is very important.*
+
+  1. Global Variables
+  1. Object Constructor
+      - Instances
+      - Prototypes
+          - Functions
+          - Loops
+  1. Invoke Executable Functions
 
 
+![Alt Text](https://p0.pxfuel.com/preview/920/519/697/abstract-php-c-analytics.jpg)
 
 
+## Domain Modeling
 
+*Domain modeling creates a model in code to address a specific problem.*
+
+- This model provides the various entities, attributes and behaviors and contraints that are related to the specific problem.
+
+- **Object-Oriented Model** - an entity comprised of methods and properties that store data.
+
+
+[<== Back to Main Readme](README.md)
 
 
 
