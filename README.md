@@ -21,8 +21,8 @@
 1. [JavaScript Object Literals; The DOM](https://cquiocho.github.io/reading-notes/class-06)
 1. [HTML Tables; JavaScript Constructor Functions](https://cquiocho.github.io/reading-notes/class-07)
 1. [More CSS Layout](https://cquiocho.github.io/reading-notes/class-08)
-1. [Forms and Events](https://cquiocho.github.io/reading-notes/)
-1. [JavaScript Debugging](https://cquiocho.github.io/reading-notes/)
+1. [Forms and Events](https://cquiocho.github.io/reading-notes/class-09)
+1. [JavaScript Debugging](https://cquiocho.github.io/reading-notes/class-10)
 1. [Assorted Topics](https://cquiocho.github.io/reading-notes/)
 1. [Reading 12](https://cquiocho.github.io/reading-notes/)
 1. [Reading 13](https://cquiocho.github.io/reading-notes/)
@@ -31,9 +31,9 @@
 
 ## Code 201 - Reading References
 
-- HTML & CSS by Jon Duckett, Introduction, Chapter 1: Structure, Chapter 8: Extra Markup, Chapter 17: HTML5 Layout & Chapter 18: Process & Design. JavaScript & jQuery by Jon Duckett, Introduction & Chapter 1: The ABC of Programming
-- HTML & CSS by Jon Duckett, Chapter 2: Text, Chapter 10: Introducing CSS. JavaScript & jQuery by Jon Duckett, Chapter 2: Basic JavaScript Instructions, Chapter 4: Decisions and Loops
-- HTML & CSS by Jon Duckett, Chapter 3: Lists, Chapter 13: Boxes. JavaScript & jQuery by Jon Duckett, Chapter 2: Basic JavaScript Instructions (Arrays), Chapter 4: Decisions and Loops (Continued)
+- HTML & CSS by Jon Duckett, Introduction, Chapter 1: Structure, Chapter 8: Extra Markup, Chapter 17: HTML5 Layout & Chapter 18: Process & Design. JavaScript & jQuery by Jon Duckett, Introduction & Chapter 1: The ABC of Programming.
+- HTML & CSS by Jon Duckett, Chapter 2: Text, Chapter 10: Introducing CSS. JavaScript & jQuery by Jon Duckett, Chapter 2: Basic JavaScript Instructions, Chapter 4: Decisions and Loops.
+- HTML & CSS by Jon Duckett, Chapter 3: Lists, Chapter 13: Boxes. JavaScript & jQuery by Jon Duckett, Chapter 2: Basic JavaScript Instructions (Arrays), Chapter 4: Decisions and Loops (Continued).
 - HTML & CSS by Jon Duckett, Chapter 4: Links, Chapter 15: Layout. JavaScript & jQuery by Jon Duckett, Chapter 3 (First Part): Functions, Methods and Objects.
 - [6 Reasons for Pair Programming](https://www.codefellows.org/blog/6-reasons-for-pair-programming/)
 - HTML & CSS by Jon Duckett, Chapter 5: Images, Chapter 11: Color, Chapter 12: Text.
@@ -42,6 +42,8 @@
 - [Domain Modeling](https://github.com/codefellows/domain_modeling#domain-modeling)
 - HTML & CSS by Jon Duckett, Chapter 6: Tables. JavaScript & jQuery by Jon Duckett, Chapter 3: Functions, Methods and Objects.
 - HTML & CSS by Jon Duckett, Chapter 15: Layout.
+- HTML & CSS by Jon Duckett, Chapter 7: Forms, Chapter 14: Lists, Tables & Forms. JavaScript & jQuery by Jon Duckett, Chapter 6: Events.
+
 
 ![Alt Text](https://storage.needpix.com/rsynced_images/html-1695519_1280.png)  
 
