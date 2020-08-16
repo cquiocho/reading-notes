@@ -82,7 +82,7 @@
 
  **example:** 
  >`<p>What is your favorite color?</p>`
- >`<select name="colors"> 
+ >`<select name="colors">`
  >`<option value="red">Red</option>`
  >`<option value="blue">Blue</option>`
  >`</select>`
@@ -265,5 +265,5 @@
   1. Event Flow - Also known as **event capturing**, the event starts at the leas specific node an flows inwards to the most specific one.
 
 
-
+[<== Back to Main Readme](README.md)
 
