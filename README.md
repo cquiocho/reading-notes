@@ -43,6 +43,7 @@
 - HTML & CSS by Jon Duckett, Chapter 6: Tables. JavaScript & jQuery by Jon Duckett, Chapter 3: Functions, Methods and Objects.
 - HTML & CSS by Jon Duckett, Chapter 15: Layout.
 - HTML & CSS by Jon Duckett, Chapter 7: Forms, Chapter 14: Lists, Tables & Forms. JavaScript & jQuery by Jon Duckett, Chapter 6: Events.
+- JavaScript & jQuery by Jon Duckett, Chapter 10: Error Handling & Debugging.
 
 
 ![Alt Text](https://storage.needpix.com/rsynced_images/html-1695519_1280.png)  
