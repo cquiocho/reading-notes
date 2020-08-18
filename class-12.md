@@ -12,7 +12,7 @@ Setting up Charts.js:
 1. Create new html page.
 1. Import the script.
 
-<img src="images/import-script.png" alt="Canvas Script Import" />
+![Canvas Script Import](images/import-script.png)
 
 ## Basic Usage of Canvas
 
@@ -28,7 +28,7 @@ Setting up Charts.js:
 
 To display something on `<canvas>`, a **script** is required:
 
-<img src="images/canvas-get-element.png" alt="Canvas Get Element" />
+![Canvas Get Element](images/canvas-get-element.png)
 
 ## Drawing Shapes with Canvas
 
@@ -47,8 +47,7 @@ To display something on `<canvas>`, a **script** is required:
 
 Rectangular shape example:
 
-<img src="images/rectangular-example.png" alt="Rectangular Example" />
-
+![Rectangular Example](images/rectangular-example.png)
 
 ## Applying Styles and Colors with Canvas
 
