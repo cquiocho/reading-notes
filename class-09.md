@@ -262,7 +262,7 @@
   1. **addEventListener**
   1. Event - Event to bind node(s) to in **quotation marks**.
   1. Code - Name of function to call.
-  1. Event Flow - Also known as **event capturing**, the event starts at the leas specific node an flows inwards to the most specific one.
+  1. Event Flow - Also known as **event capturing** or **bubbling**, the event starts at the leas specific node an flows inwards to the most specific one.
 
 
 [<== Back to Main Readme](README.md)
