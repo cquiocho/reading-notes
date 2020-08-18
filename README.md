@@ -23,11 +23,11 @@
 1. [More CSS Layout](https://cquiocho.github.io/reading-notes/class-08)
 1. [Forms and Events](https://cquiocho.github.io/reading-notes/class-09)
 1. [JavaScript Debugging](https://cquiocho.github.io/reading-notes/class-10)
-1. [Assorted Topics](https://cquiocho.github.io/reading-notes/)
-1. [Reading 12](https://cquiocho.github.io/reading-notes/)
-1. [Reading 13](https://cquiocho.github.io/reading-notes/)
-1. [Reading 14](https://cquiocho.github.io/reading-notes/)
-1. [Reading 15](https://cquiocho.github.io/reading-notes/)
+1. [Assorted Topics](https://cquiocho.github.io/reading-notes/class-11)
+1. [Reading 12](https://cquiocho.github.io/reading-notes/class-12)
+1. [Reading 13](https://cquiocho.github.io/reading-notes/class-13)
+1. [Reading 14](https://cquiocho.github.io/reading-notes/class-14)
+1. [Reading 15](https://cquiocho.github.io/reading-notes/class-15)
 
 ## Code 201 - Reading References
 
@@ -44,6 +44,14 @@
 - HTML & CSS by Jon Duckett, Chapter 15: Layout.
 - HTML & CSS by Jon Duckett, Chapter 7: Forms, Chapter 14: Lists, Tables & Forms. JavaScript & jQuery by Jon Duckett, Chapter 6: Events.
 - JavaScript & jQuery by Jon Duckett, Chapter 10: Error Handling & Debugging.
+- HTML & CSS by Jon Duckett, Chapter 16: Images, Chapter 19: Practical Information
+- [Video and Audio APIs](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Video_and_audio_APIs)
+- [Easily Create Stunning Animated Charts with Charts.js](https://www.webdesignerdepot.com/2013/11/easily-create-stunning-animated-charts-with-chart-js/)
+- [Basic Usage of Canvas](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Basic_usage)
+- [Drawing Shapes with Canvas](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Drawing_shapes)
+- [Applying Styles and Colors](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Applying_styles_and_colors)
+- [Drawing Text](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Drawing_text)
+
 
 
 ![Alt Text](https://storage.needpix.com/rsynced_images/html-1695519_1280.png)  
