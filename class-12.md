@@ -12,7 +12,7 @@ Setting up Charts.js:
 1. Create new html page.
 1. Import the script.
 
-![Canvas Script Import](images/import-script.png)
+![Canvas Script Import](import-script.png)
 
 ## Basic Usage of Canvas
 
