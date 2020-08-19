@@ -31,3 +31,5 @@
 
 **Standardized HTML5 default storage is 5 megabytes.**
 
+
+[<== Back to Main Readme](README.md)
