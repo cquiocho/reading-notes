@@ -26,8 +26,8 @@
 1. [Assorted Topics](https://cquiocho.github.io/reading-notes/class-11)
 1. [Chart.js & Canvas](https://cquiocho.github.io/reading-notes/class-12)
 1. [Local Storage](https://cquiocho.github.io/reading-notes/class-13)
-1. [Reading 14](https://cquiocho.github.io/reading-notes/class-14)
-1. [Reading 15](https://cquiocho.github.io/reading-notes/class-15)
+1. [CSS Transforms, Transitions, and Animations](https://cquiocho.github.io/reading-notes/class-14)
+1. [What Google Learned About Teams](https://cquiocho.github.io/reading-notes/class-15)
 
 ## Code 201 - Reading References
 
