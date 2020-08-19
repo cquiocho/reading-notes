@@ -25,7 +25,7 @@
 1. [JavaScript Debugging](https://cquiocho.github.io/reading-notes/class-10)
 1. [Assorted Topics](https://cquiocho.github.io/reading-notes/class-11)
 1. [Chart.js & Canvas](https://cquiocho.github.io/reading-notes/class-12)
-1. [Reading 13](https://cquiocho.github.io/reading-notes/class-13)
+1. [Local Storage](https://cquiocho.github.io/reading-notes/class-13)
 1. [Reading 14](https://cquiocho.github.io/reading-notes/class-14)
 1. [Reading 15](https://cquiocho.github.io/reading-notes/class-15)
 
@@ -51,6 +51,7 @@
 - [Drawing Shapes with Canvas](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Drawing_shapes)
 - [Applying Styles and Colors](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Applying_styles_and_colors)
 - [Drawing Text](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Drawing_text)
+- [“The Past, Present, and Future of Local Storage for Web Applications”](http://diveinto.html5doctor.com/storage.html)
 
 
 
