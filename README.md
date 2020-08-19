@@ -24,7 +24,7 @@
 1. [Forms and Events](https://cquiocho.github.io/reading-notes/class-09)
 1. [JavaScript Debugging](https://cquiocho.github.io/reading-notes/class-10)
 1. [Assorted Topics](https://cquiocho.github.io/reading-notes/class-11)
-1. [Reading 12](https://cquiocho.github.io/reading-notes/class-12)
+1. [Chart.js & Canvas](https://cquiocho.github.io/reading-notes/class-12)
 1. [Reading 13](https://cquiocho.github.io/reading-notes/class-13)
 1. [Reading 14](https://cquiocho.github.io/reading-notes/class-14)
 1. [Reading 15](https://cquiocho.github.io/reading-notes/class-15)

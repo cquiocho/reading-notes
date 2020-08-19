@@ -147,3 +147,5 @@ Baseline alignment setting. Possible values: top, hanging, middle, alphabetic, i
 > **direction** = value
 Directionality. Possible values: ltr, rtl, inherit. The default value is inherit.
 
+
+[<== Back to Main Readme](README.md)
