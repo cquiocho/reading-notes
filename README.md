@@ -52,6 +52,14 @@
 - [Applying Styles and Colors](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Applying_styles_and_colors)
 - [Drawing Text](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Drawing_text)
 - [“The Past, Present, and Future of Local Storage for Web Applications”](http://diveinto.html5doctor.com/storage.html)
+- [CSS Transforms](http://diveinto.html5doctor.com/storage.html)
+- [CSS Transitions & Animations](http://diveinto.html5doctor.com/storage.html)
+- [8 simple CSS3 transitions that will wow your users](http://diveinto.html5doctor.com/storage.html)
+- [6 Buttons Animated](http://diveinto.html5doctor.com/storage.html)
+- [CSS3 Animations: Keyframes](http://diveinto.html5doctor.com/storage.html)
+- [404](http://diveinto.html5doctor.com/storage.html)
+- [Pure CSS Bounce Animation](http://diveinto.html5doctor.com/storage.html)
+- [What Google Learned From Its Quest to Build the Perfect Team](http://diveinto.html5doctor.com/storage.html)
 
 
 

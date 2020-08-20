@@ -31,5 +31,29 @@
 
 **Standardized HTML5 default storage is 5 megabytes.**
 
+### Saving Information into Local Storage
+
+- Step 1: Turn data into JSON.
+  
+  > `var stringDogs = JSON.stringify(dogArray);`
+
+- Step 2: Put JSON data into Local Storage. It will take **two** items:
+  1. Key - Which can be anything.
+  1. Value - JSON data.
+  
+  > `localStorage.setItem('dogs', stringDogs);`
+
+- Step 3: Get JSON data out of Local Storage.  
+
+  > `var whoLetTheDogsOut = localStorage.getItem('dogs');`
+    `console.log('my get items are:', whoLetTheDogsOut);`  
+
+- Step 4: Parse the recalled JSON data.
+
+  > `var parseDogs = JSON.parse(whoLetTheDogsOut);`
+    `console.log('my parse items are:', parseDogs);` 
+
+  *option: use console.log to verify **set**,**get**, **parsed** information.*
+
 
 [<== Back to Main Readme](README.md)
