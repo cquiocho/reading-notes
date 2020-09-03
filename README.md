@@ -1,15 +1,30 @@
+## Reading Notes
+
+
 ![Alt Text](https://www.picpedia.org/highway-signs/images/software-development.jpg)     
 
 
-## ***My name is Christopher Quiocho (he/him) and I am originally from Honolulu, HI. I have been an Executive Administrator for quite some time, primarily in Finance and Marketing. Prior to that, I was a Talent and Business Development Manager for several years. I had the pleasure of traveling and facilitating continuing education classes and training throughout North America.***
+**My name is Christopher Quiocho (he/him) and I am originally from Honolulu, HI. I have been an Executive Administrator for quite some time, primarily in Finance and Marketing. Prior to that, I was a Talent and Business Development Manager for several years. I had the pleasure of traveling and facilitating continuing education classes and training throughout North America.**
 
-## ***Having gone through Code 101 & 102, I am feeling confident and motivated. I am realizing that Software Development is a great fit for me and is a career that I can see myself succeeding in. I am excited to continue with this new career path and looking forward to this journey with Code Fellows.***
-
-
-![Alt Text](https://storage.needpix.com/rsynced_images/programmer-3266860_1280.jpg) 
+**Having gone through Code 101,102 & 201, I am feeling confident and motivated. I am realizing that Software Development is a great fit for me and is a career that I can see myself succeeding in. I am excited to continue with this new career path and looking forward to this journey with Code Fellows.**
 
 
-## Code 201 - Reading Notes
+![JavaScript Image](img/javascript-image.jpg) 
+
+
+## Code 301 - Intermediate Software Development
+
+1. [class-01](https://cquiocho.github.io/reading-notes/class-301-01)
+1. [class-02](https://cquiocho.github.io/reading-notes/class-301-02)
+1. [class-03](https://cquiocho.github.io/reading-notes/class-301-03)
+1. [class-04](https://cquiocho.github.io/reading-notes/class-301-04)
+1. [class-05](https://cquiocho.github.io/reading-notes/class-301-05)
+
+
+![CSS Image](img/css-image.jpg)  
+
+
+## Code 201 - Foundations of Software Development
 
 ### The following links are the notes of my journey through Code 201. These notes will provide reference to the information and resources provided throughout this course for the purpose of becoming a successful Software Developer.
 
@@ -63,10 +78,10 @@
 
 
 
-![Alt Text](https://storage.needpix.com/rsynced_images/html-1695519_1280.png)  
+![HTML Image](img/html-image.jpg)  
 
 
-## Code 102 - Reading Notes
+## Code 102 - Intro to Software Development
 
 1. [Learning Markdown](https://cquiocho.github.io/reading-notes/learning-markdown)
 1. [The Coder's Computer](https://cquiocho.github.io/reading-notes/the-coders-computer)
