@@ -22,6 +22,13 @@
 1. [class-04](https://cquiocho.github.io/reading-notes/class-301-04)
 1. [class-05](https://cquiocho.github.io/reading-notes/class-301-05)
 
+## Code 301 - Reading References
+
+- [ES6 "const" - caniuse.com](https://caniuse.com/#feat=const)
+- [ES6 "const" - MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/const)
+- [ES6 "let" - caniuse.com](https://caniuse.com/#feat=let)
+- [ES6 "let" - MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/let)
+- [ECMAScript 2015 Language Specification](https://www.ecma-international.org/ecma-262/6.0/)
 
 ![CSS Image](img/css-image.jpg)  
 
