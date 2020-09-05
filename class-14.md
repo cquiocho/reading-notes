@@ -32,7 +32,7 @@
 
 - Examples of the more popular transitional properties:
 
-![Transitional Property Examples](images/trans-prop-example.PNG)
+![Transitional Property Examples](img/trans-prop-example.PNG)
 
 *Other transitional properties include:
 
@@ -63,7 +63,7 @@
 
 *Once the keyframes for an animation have been declared, they need to be assigned to an element by assigning  an **animation name**, this name will be the animation name **value***
 
-![animation-name](images/animation-name.PNG)
+![animation-name](img/animation-name.PNG)
 
 *Following the name, an **animation-duration** must be declared in order to specify how long an animation should take to complete.*
 
@@ -71,7 +71,7 @@
     - **animation-timing-function**
     - **animation-delay**
 
-![Animation Properties](images/animation-properties.PNG)
+![Animation Properties](img/animation-properties.PNG)
 
 **Customizing Animations**
 
@@ -85,7 +85,7 @@
 
 - **animation-fill-mode** - Identifies how an element should be styled before, after or before and after an animation. Values are **none**, **forwards**, **backwards** and **both**.
 
-![Animation Customizations](images/animation-customizations.PNG)
+![Animation Customizations](img/animation-customizations.PNG)
 
 *Animation shorthand should go in the following order:*
 1. animation-name
@@ -97,42 +97,42 @@
 1. animation-fill-mode
 1. animation-play-state
 
-![Animation Shorthand](images/animation-shorthand.PNG)
+![Animation Shorthand](img/animation-shorthand.PNG)
 
 ## 8 Simple CSS3 Transitions That Will Wow Users
 
 1. **Fade In**
 
-![Fade In](images/fade-in.PNG)
+![Fade In](img/fade-in.PNG)
 
 1. **Change Color**
 
-![Change Color](images/change-color.PNG)
+![Change Color](img/change-color.PNG)
 
 1. **Grow & Shrink**
 
-![Grow & Shrink](images/grow-and-shrink.PNG)
-![Grow & Shrink](images/shrink-and-grow.PNG)
+![Grow & Shrink](img/grow-and-shrink.PNG)
+![Grow & Shrink](img/shrink-and-grow.PNG)
 
 1. **Rotate Elements**
 
-![Rotate Elements](images/rotate-elements.PNG)
+![Rotate Elements](img/rotate-elements.PNG)
 
 1. **Square to Circle**
 
-![Square to Circle](images/square-to-circle.PNG)
+![Square to Circle](img/square-to-circle.PNG)
 
 1. **3D Shadow**
 
-![3D Shadow](images/3d-shadow.PNG)
+![3D Shadow](img/3d-shadow.PNG)
 
 1. **Swing**
 
-![Swing](images/swing.PNG)
+![Swing](img/swing.PNG)
 
 1. **Inset Border**
 
-![Inset Border](images/inset-border.PNG)
+![Inset Border](img/inset-border.PNG)
 
 
 [<== Back to Main Readme](README.md)
