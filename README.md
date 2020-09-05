@@ -16,7 +16,7 @@
 
 ### The links below are my notes and resources gained from Code 301. 
 
-1. [class-01](https://cquiocho.github.io/reading-notes/class-301-01)
+1. [Responsive Web Design & Floats](https://cquiocho.github.io/reading-notes/class-301-01)
 1. [class-02](https://cquiocho.github.io/reading-notes/class-301-02)
 1. [class-03](https://cquiocho.github.io/reading-notes/class-301-03)
 1. [class-04](https://cquiocho.github.io/reading-notes/class-301-04)
