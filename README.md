@@ -17,7 +17,7 @@
 ### The links below are my notes and resources gained from Code 301. 
 
 1. [Responsive Web Design & Floats](https://cquiocho.github.io/reading-notes/class-301-01)
-1. [class-02](https://cquiocho.github.io/reading-notes/class-301-02)
+1. [jQuery & Pair Programming](https://cquiocho.github.io/reading-notes/class-301-02)
 1. [class-03](https://cquiocho.github.io/reading-notes/class-301-03)
 1. [class-04](https://cquiocho.github.io/reading-notes/class-301-04)
 1. [class-05](https://cquiocho.github.io/reading-notes/class-301-05)
@@ -33,6 +33,8 @@
 - [Don't Overthink It Grids](https://css-tricks.com/dont-overthink-it-grids/)
 - [CSS Floats Explained By Riding An Escalator](https://www.freecodecamp.org/news/css-floats-explained-by-riding-an-escalator-57fa55232333/)
 - [SMACSS Official Documentation](http://smacss.com/)
+- JavaScript & jQuery by Jon Duckett, Chapter 7: jQuery
+- [6 Reasons for Pair Programming](https://www.codefellows.org/blog/6-reasons-for-pair-programming/)
 
 
 ![CSS Image](img/css-image.jpg)  
