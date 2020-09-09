@@ -18,7 +18,7 @@
 
 1. [Responsive Web Design & Floats](https://cquiocho.github.io/reading-notes/class-301-01)
 1. [jQuery & Pair Programming](https://cquiocho.github.io/reading-notes/class-301-02)
-1. [class-03](https://cquiocho.github.io/reading-notes/class-301-03)
+1. [Mustache and Flexbox](https://cquiocho.github.io/reading-notes/class-301-03)
 1. [class-04](https://cquiocho.github.io/reading-notes/class-301-04)
 1. [class-05](https://cquiocho.github.io/reading-notes/class-301-05)
 
@@ -35,6 +35,10 @@
 - [SMACSS Official Documentation](http://smacss.com/)
 - JavaScript & jQuery by Jon Duckett, Chapter 7: jQuery
 - [6 Reasons for Pair Programming](https://www.codefellows.org/blog/6-reasons-for-pair-programming/)
+- [Templating with Mustache](https://medium.com/@1sherlynn/javascript-templating-language-and-engine-mustache-js-with-node-and-express-f4c2530e73b2)
+- [A Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+- [Flexbox Froggy](https://flexboxfroggy.com/)
+- [Reference: Mustache.js Official Documentation](https://github.com/janl/mustache.js)
 
 
 ![CSS Image](img/css-image.jpg)  
