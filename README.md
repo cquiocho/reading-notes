@@ -20,7 +20,7 @@
 1. [jQuery & Pair Programming](https://cquiocho.github.io/reading-notes/class-301-02)
 1. [Mustache and Flexbox](https://cquiocho.github.io/reading-notes/class-301-03)
 1. [CSS Grids](https://cquiocho.github.io/reading-notes/class-301-04)
-1. [class-05](https://cquiocho.github.io/reading-notes/class-301-05)
+1. [Heroku Deployment](https://cquiocho.github.io/reading-notes/class-301-05)
 
 ## Code 301 - Reading References
 
@@ -40,7 +40,13 @@
 - [Flexbox Froggy](https://flexboxfroggy.com/)
 - [Reference: Mustache.js Official Documentation](https://github.com/janl/mustache.js)
 - [CSS Grid Garden](https://cssgridgarden.com/)
-
+- [RegExr](https://regexr.com/)
+- [Regex Tutorial](https://medium.com/factory-mind/regex-tutorial-a-simple-cheatsheet-by-examples-649dc1c3f285)
+- [Regex 101](https://regex101.com/)
+- [CSS Grid Reference](https://css-tricks.com/snippets/css/complete-guide-grid/)
+- [Responsive Design with CSS Grid](https://medium.com/samsung-internet-dev/common-responsive-layouts-with-css-grid-and-some-without-245a862f48df)
+- [Heroku: Getting Started with Node](https://devcenter.heroku.com/articles/getting-started-with-nodejs)
+- [Deploying a Simple Blog to Heroku](https://canvas.instructure.com/courses/2258674/discussion_topics/9594365?module_item_id=35223239)
 
 ![CSS Image](img/css-image.jpg)  
 
