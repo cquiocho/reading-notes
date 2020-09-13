@@ -22,6 +22,7 @@
 1. [CSS Grids](https://cquiocho.github.io/reading-notes/class-301-04)
 1. [Heroku Deployment](https://cquiocho.github.io/reading-notes/class-301-05)
 1. [Node.js](https://cquiocho.github.io/reading-notes/class-301-06)
+1. [REST](https://cquiocho.github.io/reading-notes/class-301-07)
 
 ## Code 301 - Reading References
 
@@ -49,6 +50,7 @@
 - [Heroku: Getting Started with Node](https://devcenter.heroku.com/articles/getting-started-with-nodejs)
 - [Deploying a Simple Blog to Heroku](https://canvas.instructure.com/courses/2258674/discussion_topics/9594365?module_item_id=35223239)
 - [Introduction to Node.js](https://www.sitepoint.com/an-introduction-to-node-js/)
+- [REST](https://gist.github.com/brookr/5977550)
 
 
 ![CSS Image](img/css-image.jpg)  
