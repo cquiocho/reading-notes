@@ -21,6 +21,7 @@
 1. [Mustache and Flexbox](https://cquiocho.github.io/reading-notes/class-301-03)
 1. [CSS Grids](https://cquiocho.github.io/reading-notes/class-301-04)
 1. [Heroku Deployment](https://cquiocho.github.io/reading-notes/class-301-05)
+1. [Node.js](https://cquiocho.github.io/reading-notes/class-301-06)
 
 ## Code 301 - Reading References
 
@@ -47,6 +48,8 @@
 - [Responsive Design with CSS Grid](https://medium.com/samsung-internet-dev/common-responsive-layouts-with-css-grid-and-some-without-245a862f48df)
 - [Heroku: Getting Started with Node](https://devcenter.heroku.com/articles/getting-started-with-nodejs)
 - [Deploying a Simple Blog to Heroku](https://canvas.instructure.com/courses/2258674/discussion_topics/9594365?module_item_id=35223239)
+- [Introduction to Node.js](https://www.sitepoint.com/an-introduction-to-node-js/)
+
 
 ![CSS Image](img/css-image.jpg)  
 
