@@ -23,6 +23,7 @@
 1. [Heroku Deployment](https://cquiocho.github.io/reading-notes/class-301-05)
 1. [Node.js](https://cquiocho.github.io/reading-notes/class-301-06)
 1. [REST](https://cquiocho.github.io/reading-notes/class-301-07)
+1. [SQL](https://cquiocho.github.io/reading-notes/class-301-08)
 
 ## Code 301 - Reading References
 
@@ -51,6 +52,10 @@
 - [Deploying a Simple Blog to Heroku](https://canvas.instructure.com/courses/2258674/discussion_topics/9594365?module_item_id=35223239)
 - [Introduction to Node.js](https://www.sitepoint.com/an-introduction-to-node-js/)
 - [REST](https://gist.github.com/brookr/5977550)
+- [SQLBolt](https://sqlbolt.com/)
+- [SQL on W3 Schools](https://www.w3schools.com/sql/trysql.asp?filename=trysql_select_all)
+- [A Primer on SQL](https://openlibra.com/en/book/a-primer-on-sql-3rd-edition)
+- [SQL Cheatsheet](http://www.cheat-sheets.org/sites/sql.su/)
 
 
 ![CSS Image](img/css-image.jpg)  
