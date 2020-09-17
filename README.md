@@ -24,6 +24,7 @@
 1. [Node.js](https://cquiocho.github.io/reading-notes/class-301-06)
 1. [REST](https://cquiocho.github.io/reading-notes/class-301-07)
 1. [SQL](https://cquiocho.github.io/reading-notes/class-301-08)
+1. [Functional Programming](https://cquiocho.github.io/reading-notes/class-301-09)
 
 ## Code 301 - Reading References
 
@@ -56,6 +57,8 @@
 - [SQL on W3 Schools](https://www.w3schools.com/sql/trysql.asp?filename=trysql_select_all)
 - [A Primer on SQL](https://openlibra.com/en/book/a-primer-on-sql-3rd-edition)
 - [SQL Cheatsheet](http://www.cheat-sheets.org/sites/sql.su/)
+- [Functional Programming Concepts](https://medium.com/the-renaissance-developer/concepts-of-functional-programming-in-javascript-6bc84220d2aa)
+- [Refactoring Javascript for Readability](https://dev.to/healeycodes/refactoring-javascript-for-performance-and-readability-with-examples-1hec)
 
 
 ![CSS Image](img/css-image.jpg)  
