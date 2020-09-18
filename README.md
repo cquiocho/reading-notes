@@ -25,6 +25,7 @@
 1. [REST](https://cquiocho.github.io/reading-notes/class-301-07)
 1. [SQL](https://cquiocho.github.io/reading-notes/class-301-08)
 1. [Functional Programming](https://cquiocho.github.io/reading-notes/class-301-09)
+1. [The Call Stack](https://cquiocho.github.io/reading-notes/class-301-10)
 
 ## Code 301 - Reading References
 
@@ -59,6 +60,10 @@
 - [SQL Cheatsheet](http://www.cheat-sheets.org/sites/sql.su/)
 - [Functional Programming Concepts](https://medium.com/the-renaissance-developer/concepts-of-functional-programming-in-javascript-6bc84220d2aa)
 - [Refactoring Javascript for Readability](https://dev.to/healeycodes/refactoring-javascript-for-performance-and-readability-with-examples-1hec)
+- [The Call Stack defined on MDN](https://developer.mozilla.org/en-US/docs/Glossary/Call_stack)
+- [Understanding the JavaScript Call Stack](https://www.freecodecamp.org/news/understanding-the-javascript-call-stack-861e41ae61d4/)
+- [JavaScript Error Messages](https://codeburst.io/javascript-error-messages-debugging-d23f84f0ae7c)
+- [JavaScript Errors Reference on MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors)
 
 
 ![CSS Image](img/css-image.jpg)  
