@@ -26,6 +26,7 @@
 1. [SQL](https://cquiocho.github.io/reading-notes/class-301-08)
 1. [Functional Programming](https://cquiocho.github.io/reading-notes/class-301-09)
 1. [The Call Stack](https://cquiocho.github.io/reading-notes/class-301-10)
+1. [EJS](https://cquiocho.github.io/reading-notes/class-301-11)
 
 ## Code 301 - Reading References
 
@@ -64,6 +65,11 @@
 - [Understanding the JavaScript Call Stack](https://www.freecodecamp.org/news/understanding-the-javascript-call-stack-861e41ae61d4/)
 - [JavaScript Error Messages](https://codeburst.io/javascript-error-messages-debugging-d23f84f0ae7c)
 - [JavaScript Errors Reference on MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors)
+- [EJS Tutorial on YouTube](https://www.youtube.com/playlist?list=PL7sCSgsRZ-slYARh3YJIqPGZqtGVqZRGt)
+- [Google Books APIs](https://developers.google.com/books/docs/v1/using#WorkingVolumes)
+- [<%= EJS %>](https://ejs.co/)
+- [Use EJS to Template Your Node Application](https://scotch.io/tutorials/use-ejs-to-template-your-node-application)
+- [Source Code for the EJS Tutorial](https://github.com/scotch-io/node-ejs)
 
 
 ![CSS Image](img/css-image.jpg)  
