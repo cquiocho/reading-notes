@@ -27,6 +27,7 @@
 1. [Functional Programming](https://cquiocho.github.io/reading-notes/class-301-09)
 1. [The Call Stack](https://cquiocho.github.io/reading-notes/class-301-10)
 1. [EJS](https://cquiocho.github.io/reading-notes/class-301-11)
+1. [EJS Partials](https://cquiocho.github.io/reading-notes/class-301-12)
 
 ## Code 301 - Reading References
 
@@ -70,6 +71,8 @@
 - [<%= EJS %>](https://ejs.co/)
 - [Use EJS to Template Your Node Application](https://scotch.io/tutorials/use-ejs-to-template-your-node-application)
 - [Source Code for the EJS Tutorial](https://github.com/scotch-io/node-ejs)
+- [EJS Partials](https://medium.com/@henslejoseph/ejs-partials-f6f102cb7433)
+
 
 
 ![CSS Image](img/css-image.jpg)  
