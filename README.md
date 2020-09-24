@@ -28,6 +28,8 @@
 1. [The Call Stack](https://cquiocho.github.io/reading-notes/class-301-10)
 1. [EJS](https://cquiocho.github.io/reading-notes/class-301-11)
 1. [EJS Partials](https://cquiocho.github.io/reading-notes/class-301-12)
+1. [Sending Form Data](https://cquiocho.github.io/reading-notes/class-301-13)
+1. [Database Normalization](https://cquiocho.github.io/reading-notes/class-301-14)
 
 ## Code 301 - Reading References
 
@@ -72,7 +74,10 @@
 - [Use EJS to Template Your Node Application](https://scotch.io/tutorials/use-ejs-to-template-your-node-application)
 - [Source Code for the EJS Tutorial](https://github.com/scotch-io/node-ejs)
 - [EJS Partials](https://medium.com/@henslejoseph/ejs-partials-f6f102cb7433)
-
+- [Sending Form Data](https://developer.mozilla.org/en-US/docs/Learn/Forms/Sending_and_retrieving_form_data)
+- [Forms in HTML5](https://htmlreference.io/forms/)
+- [Styling a HTML5 Form](https://www.youtube.com/playlist?list=PL4cUxeGkcC9g5_p_BVUGWykHfqx6bb7qK)
+- [Database Normalization (Explained in Simple English)](https://www.essentialsql.com/get-ready-to-learn-sql-database-normalization-explained-in-simple-english/)
 
 
 ![CSS Image](img/css-image.jpg)  
