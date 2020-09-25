@@ -30,6 +30,7 @@
 1. [EJS Partials](https://cquiocho.github.io/reading-notes/class-301-12)
 1. [Sending Form Data](https://cquiocho.github.io/reading-notes/class-301-13)
 1. [Database Normalization](https://cquiocho.github.io/reading-notes/class-301-14)
+1. [Diversity & Inclusion](https://cquiocho.github.io/reading-notes/class-301-15)
 
 ## Code 301 - Reading References
 
@@ -78,7 +79,8 @@
 - [Forms in HTML5](https://htmlreference.io/forms/)
 - [Styling a HTML5 Form](https://www.youtube.com/playlist?list=PL4cUxeGkcC9g5_p_BVUGWykHfqx6bb7qK)
 - [Database Normalization (Explained in Simple English)](https://www.essentialsql.com/get-ready-to-learn-sql-database-normalization-explained-in-simple-english/)
-
+- [Silicon Valley’s gender gap is the result of computer-game marketing 20 years ago](https://qz.com/911737/silicon-valleys-gender-gap-is-the-result-of-computer-game-marketing-20-years-ago/)
+- [Diversity in Tech](https://informationisbeautiful.net/visualizations/diversity-in-tech/)
 
 ![CSS Image](img/css-image.jpg)  
 
