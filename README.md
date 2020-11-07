@@ -9,6 +9,35 @@
 **Having gone through Code 101,102 & 201, I am feeling confident and motivated. I am realizing that Software Development is a great fit for me and is a career that I can see myself succeeding in. I am excited to continue with this new career path and looking forward to this journey with Code Fellows.**
 
 
+![JavaScript Image](img/python-image.jpg) 
+
+
+## Code 401 - Advanced Software Development in Python
+
+### Resources and links of my reading notes throughout Code 401.
+
+1. [Reading Assignment 1](https://cquiocho.github.io/reading-notes/class-401-01)
+1. [Reading Assignment 2](https://cquiocho.github.io/reading-notes/class-401-02)
+1. [Reading Assignment 3](https://cquiocho.github.io/reading-notes/class-401-03)
+1. [Reading Assignment 4](https://cquiocho.github.io/reading-notes/class-401-04)
+1. [Reading Assignment 5](https://cquiocho.github.io/reading-notes/class-401-05)
+1. [Reading Assignment 6](https://cquiocho.github.io/reading-notes/class-401-06)
+1. [Reading Assignment 7](https://cquiocho.github.io/reading-notes/class-401-07)
+1. [Reading Assignment 8](https://cquiocho.github.io/reading-notes/class-401-08)
+1. [Reading Assignment 9](https://cquiocho.github.io/reading-notes/class-401-09)
+1. [Reading Assignment 10](https://cquiocho.github.io/reading-notes/class-401-10)
+1. [Reading Assignment 11](https://cquiocho.github.io/reading-notes/class-401-11)
+1. [Reading Assignment 12](https://cquiocho.github.io/reading-notes/class-401-12)
+1. [Reading Assignment 13](https://cquiocho.github.io/reading-notes/class-401-13)
+1. [Reading Assignment 14](https://cquiocho.github.io/reading-notes/class-401-14)
+1. [Reading Assignment 15](https://cquiocho.github.io/reading-notes/class-401-15)
+1. [Reading Assignment 16](https://cquiocho.github.io/reading-notes/class-401-16)
+1. [Reading Assignment 17](https://cquiocho.github.io/reading-notes/class-401-17)
+1. [Reading Assignment 18](https://cquiocho.github.io/reading-notes/class-401-18)
+1. [Reading Assignment 19](https://cquiocho.github.io/reading-notes/class-401-19)
+1. [Reading Assignment 20](https://cquiocho.github.io/reading-notes/class-401-20)
+
+
 ![JavaScript Image](img/javascript-image.jpg) 
 
 
