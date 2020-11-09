@@ -16,7 +16,7 @@
 
 ### Resources and links of my reading notes throughout Code 401.
 
-1. [Reading Assignment 1](https://cquiocho.github.io/reading-notes/class-401-01)
+1. [Big O Notation & Python Names and Values](https://cquiocho.github.io/reading-notes/class-401-01)
 1. [Reading Assignment 2](https://cquiocho.github.io/reading-notes/class-401-02)
 1. [Reading Assignment 3](https://cquiocho.github.io/reading-notes/class-401-03)
 1. [Reading Assignment 4](https://cquiocho.github.io/reading-notes/class-401-04)
@@ -37,6 +37,10 @@
 1. [Reading Assignment 19](https://cquiocho.github.io/reading-notes/class-401-19)
 1. [Reading Assignment 20](https://cquiocho.github.io/reading-notes/class-401-20)
 
+## Code 301 - Reading References
+
+- [A Beginner's Guide to Big O Notation](https://rob-bell.net/2009/06/a-beginners-guide-to-big-o-notation/)
+- [Facts and Myths about Python Names and Values](https://www.youtube.com/watch?v=_AEJHKGk9ns)
 
 ![JavaScript Image](img/javascript-image.jpg) 
 
