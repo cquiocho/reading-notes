@@ -17,7 +17,7 @@
 ### Resources and links of my reading notes throughout Code 401.
 
 1. [Big O Notation & Python Names and Values](https://cquiocho.github.io/reading-notes/class-401-01)
-1. [Reading Assignment 2](https://cquiocho.github.io/reading-notes/class-401-02)
+1. [Unit tests and TDD & Recursion](https://cquiocho.github.io/reading-notes/class-401-02)
 1. [Reading Assignment 3](https://cquiocho.github.io/reading-notes/class-401-03)
 1. [Reading Assignment 4](https://cquiocho.github.io/reading-notes/class-401-04)
 1. [Reading Assignment 5](https://cquiocho.github.io/reading-notes/class-401-05)
@@ -41,6 +41,8 @@
 
 - [A Beginner's Guide to Big O Notation](https://rob-bell.net/2009/06/a-beginners-guide-to-big-o-notation/)
 - [Facts and Myths about Python Names and Values](https://www.youtube.com/watch?v=_AEJHKGk9ns)
+- [In Tests We Trust — TDD with Python](https://code.likeagirl.io/in-tests-we-trust-tdd-with-python-af69f47e6932)
+- [Recursion](https://www.geeksforgeeks.org/recursion/)
 
 ![JavaScript Image](img/javascript-image.jpg) 
 
