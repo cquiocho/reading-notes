@@ -18,7 +18,7 @@
 
 1. [Big O Notation & Python Names and Values](https://cquiocho.github.io/reading-notes/class-401-01)
 1. [Unit tests and TDD & Recursion](https://cquiocho.github.io/reading-notes/class-401-02)
-1. [Reading Assignment 3](https://cquiocho.github.io/reading-notes/class-401-03)
+1. [File IO & Exceptions](https://cquiocho.github.io/reading-notes/class-401-03)
 1. [Reading Assignment 4](https://cquiocho.github.io/reading-notes/class-401-04)
 1. [Reading Assignment 5](https://cquiocho.github.io/reading-notes/class-401-05)
 1. [Reading Assignment 6](https://cquiocho.github.io/reading-notes/class-401-06)
@@ -43,6 +43,8 @@
 - [Facts and Myths about Python Names and Values](https://www.youtube.com/watch?v=_AEJHKGk9ns)
 - [In Tests We Trust — TDD with Python](https://code.likeagirl.io/in-tests-we-trust-tdd-with-python-af69f47e6932)
 - [Recursion](https://www.geeksforgeeks.org/recursion/)
+- [Reading and Writing Files in Python](https://realpython.com/read-write-files-python/)
+- [Python Exceptions: An Introduction](https://realpython.com/python-exceptions/)
 
 ![JavaScript Image](img/javascript-image.jpg) 
 
